@@ -1,0 +1,8 @@
+원래 PLA Not Curved WF Assemble
+
+Main144 + L Wf + R WF + insert x3 = 17.4g
+
+LightWeight Version -> 6.5g으로 경량화.
+
+Setting
+flowrate 0.4에 (0.41~0.42는 되야 함)Layer height 0.3, width 0.6에 Vase mode

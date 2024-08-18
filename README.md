@@ -65,6 +65,10 @@
 ### V3: KSEF (Korea Science & Engineering Fair)
 - 경량화 모델 LW-PLA 적용 실험
 - 기존 프로펠러와의 성능 비교 분석
+- 기존 프로펠러 실험 영상
+  
+  **Arduino Serial Monitor Loadcell & Tachometer RPM value**
+<img src="./Media/realproptestmp4.gif" width="300"><img src="./Media/IMG_7556.gif" width="300">
 - 최종 보고서 작성 및 개선
 
 <img src="./Media/그림2.jpg" width="600"/>
